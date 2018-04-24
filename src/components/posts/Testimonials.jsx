@@ -12,57 +12,54 @@ export default () => (
 	>
 		<p>
 			I know that choosing a photographer is quite a big decision. 
-      Trusting a stranger with capturing important moments of your life is not easy. I wanted to help you a little bit so I sent out a questionnaire for almost everyone I worked with. 
-     Because all what matters in the end is their overall expression about the session and their satisfaction with the final photos.
+      Trusting a stranger with capturing important moments of your life is not easy. I wanted to help you a little bit so I sent out a questionnaire for a bunch of people I worked with. 
+     Feedback is really important for me, I care a lot about how my clients feel before, during and after my sessions.
 		</p>
 
 		<Photo file="blog/testimonials5.jpg" />
    
    <p>
-    "The way Annie works is authentic and simple yet so effective. The whole day was a vibe. When I first saw my photos I was GOBSMACKED!! I enjoyed every minute of the shoot and would do it again 10x over. Thank you Annie for a beautiful experience ❤️"</p>
-    <br />- Amanda C.
+    "The way Annie works is authentic and simple yet so effective. The whole day was a vibe. When I first saw my photos I was GOBSMACKED!! I enjoyed every minute of the shoot and would do it again 10x over. Thank you Annie for a beautiful experience ❤️"
+			<br />- Amanda C.</p>
+
     
     <Photo file="blog/testimonials1.jpg" />
     
     <p>
     "Before we had our photoshoot, my biggest fear was to pose in front of the camera, but the atmosphere was great and she helped me to be more confident. The photos were even better than I expected. 
-    The shoot was very fun, I really enjoyed it. I recommend everybody to give her a chance and get some nice photos ;)"</p>
-    <br />- Dorina K.
+    The shoot was very fun, I really enjoyed it. I recommend everybody to give her a chance and get some nice photos ;)"
+		    <br />- Dorina K.</p>
     
 		<Photo file="blog/testimonials2.jpg" />
     
     <p>
-    "My biggest fear was that I don't know how to pose. Annie was really creative with the locations and she was giving a lot of instructions."</p>
-    <br />- Eva K.
+    "My biggest fear was that I don't know how to pose. Annie was really creative with the locations and she was giving a lot of instructions."
+		    <br />- Dorina K.</p>
     
 		<Photo file="blog/testimonials3.jpg" />
     
      <p>
-    "My biggest fear was that I don't know how to pose. Annie was really creative with the locations and she was giving a lot of instructions."</p>
-    <br />- Eva K.
+    "My biggest fear was that I don't know how to pose. Annie was really creative with the locations and she was giving a lot of instructions."
+		    <br />- Eva K.</p>
     
 		<Photo file="blog/testimonials4.jpg" />
+      	<Photo file="blog/testimonials6.jpg" />
     
-    <p>
-    "10/10 experience. Annie maintained great communication and although the shoot was organised in short notice, Annie did her very best to ensure we created magic and that we did!"</p>
-    <br />- Kady S.
-    
-    
-    <Photo file="blog/testimonials6.jpg" />
-     <p>
+	<p>
     "10/10 experience. Annie maintained great communication and although the shoot was organised in short notice, Annie did her very best to ensure we created magic and that we did!
-I spoke to her about some of the pictures they were not particularly my favourite. She completely understand and rectified the issue."</p>
-    <br />- Kady S.
+I spoke to her about some of the pictures they were not particularly my favourite. She completely understand and rectified the issue."
+		<br />- Kady S.</p>
     
     <Photo file="blog/testimonials7.jpg" />
      <p>
-    "It was an experience that I would repeat if I had the chance again! It was a nice summer evening that is captured in beautiful pics!"</p>
-    <br />- Anisa
+    "It was an experience that I would repeat if I had the chance again! It was a nice summer evening that is captured in beautiful pics!"
+		<br />- Anisa</p>
+  
     
     <Photo file="blog/testimonials8.jpg" />
     <p>
-    "Before we had our photoshoot, my biggest fear was not being photogenic enough to get a good result, but I was honestly relieved and I loved my photos!"</p>
-    <br />- Anna K.
+    "Before we had our photoshoot, my biggest fear was not being photogenic enough to get a good result, but I was honestly relieved and I loved my photos!"
+		    <br />- Anna K.</p>
     
     <Photo file="blog/testimonials9.jpg" />
     <Photo file="blog/testimonials10.jpg" />
