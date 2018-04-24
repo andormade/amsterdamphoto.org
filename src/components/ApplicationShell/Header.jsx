@@ -115,8 +115,10 @@ export default class Header extends React.Component {
 					<MenuItem to="/">Home</MenuItem>
 					<MenuItem to="/about-me">About me</MenuItem>
 					<MenuItem to="/investment">Investment</MenuItem>
-					<MenuItem to="/blog">Blog</MenuItem>
-					<MenuItem to="/contact">Contact</MenuItem>
+					<MenuItem to="/portraits">Portraits</MenuItem>
+					<MenuItem to="/couple_shoots">Couple sessions</MenuItem>
+					<MenuItem to="/contact">Bridal Photography</MenuItem>
+					<MenuItem to="/kids">Children</MenuItem>
 					<Instagram />
 					<Facebook />
 					<Messenger />
