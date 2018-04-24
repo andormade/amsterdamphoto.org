@@ -14,8 +14,7 @@ export default () => (
 			alt="Boudoir photography"
 		/>
 		<p>
-			<br />Send me a message to get my extended price & package guide. 
-			My sessions start at 90 Eur.
+			<br />My session prices start from 90 Eur. I created several package options which are completely customizable for your needs. Feel free to send me a message to get my extended price & package guide. 
 		</p>
 
 		<CallToActionButton to="/contact" text="Book now" />
