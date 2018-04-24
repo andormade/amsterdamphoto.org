@@ -12,6 +12,7 @@ import Boudoir from './components/posts/Boudoir';
 import Newyear from './components/posts/Newyear';
 import Couples from './components/posts/Couples';
 import Children from './components/posts/Children';
+import Testimonials from './components/posts/Testimonials';
 
 export default [
 	Testimonials,
