@@ -9,7 +9,7 @@ const PrettyLink = styled(Link)`
 
 const Dimmer = styled.div`
 	//${props => props.color}
-	background: radial-gradient(ellipse at center, rgba(255,255,255,0) 0%,rgba(255,255,255,0.8) 100%);
+	background: radial-gradient(ellipse at center, rgba(0,0,0,0) 0%,rgba(0,0,0,0.8) 100%);
 	bottom: 0;
 	display: block;
 	opacity: 0;
@@ -27,7 +27,7 @@ const Dimmer = styled.div`
 
 const Title = styled.span`
 	bottom: 40px;
-	color: rgba(0, 0, 0, 1);
+	color: rgba(255, 255, 255, 1);
 	display: block;
 	font-family: 'Open Sans', sans-serif;
 	font-size: 24px;
