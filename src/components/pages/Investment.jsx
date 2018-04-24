@@ -11,11 +11,11 @@ export default () => (
 	>
 		<Photo
 			file="investment/amsterdam.jpg"
-			alt="Girl walking in Amsterdam"
+			alt="Boudoir photography"
 		/>
 		<p>
-			My sessions start from 220 eur
-			<br />Please message me to get my extensive guide with useful information about my pricing & packages. It includes location ideas, posing tips and inspiration for your own photo session.
+			<br />Send me a message to get my extended price & package guide. 
+			My sessions start at 90 Eur.
 		</p>
 
 		<CallToActionButton to="/contact" text="Book now" />
