@@ -22,21 +22,6 @@ export default () => (
 			</PrettyLink>
 
 
-
-
-		<PrettyLink
-			to="/portraits"
-			title="Never give up dreaming"
-			color="white"
-			background="black"
-			image="home/zsofi.jpg"
-		>
-			<Photo file="home/zsofi.jpg" />
-		</PrettyLink>
-
-
-
-
 		<PrettyLink
 			to="/couple_shoots"
 			title="Romantic couple sessions"
@@ -46,8 +31,6 @@ export default () => (
 		>
 			<Photo file="home/2.jpg" />
 		</PrettyLink>
-
-
 
 
 		<PrettyLink
