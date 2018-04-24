@@ -8,21 +8,19 @@ import PrettyLink from '../PrettyLink';
 export default () => (
 	<AlbumPage
 		title="Portrait &amp; Lifestyle Photography in Amsterdam"
-		image="home/zsofi.jpg"
+		image="home/1.jpg"
 		permalink="/"
 	>
-		<PhotoSet>
 			<PrettyLink
-				to="/blog/2018/03/15/creative-freedom"
-				title="Studio photography"
+				to="/blog/2017/09/12/photo-walk-amsterdam-haarlem"
+				title="Photo walks"
 				color="black"
 				background="white"
-				image="home/amanda2.jpg"
+				image="home/1.jpg"
 			>
-				<Photo file="home/amanda2.jpg" />
+				<Photo file="home/1.jpg" />
 			</PrettyLink>
-			<Photo file="home/kady2.jpg" />
-		</PhotoSet>
+
 
 
 
@@ -40,62 +38,68 @@ export default () => (
 
 
 		<PrettyLink
-			to="/blog/2018/02/10/dutch-model-fall-photoshoot"
-			title="Simplicity is key"
+			to="/couple_shoots"
+			title="Romantic couple sessions"
 			color="white"
 			background="black"
-			image="home/11.jpg"
+			image="home/2.jpg"
 		>
-			<Photo file="home/11.jpg" />
+			<Photo file="home/2.jpg" />
 		</PrettyLink>
 
 
 
 
 		<PrettyLink
-			to="/forest-fairy-tale"
-			title="Styled bridals"
+			to="/couple_shoots"
+			title="Engagement & pre-wedding sessions"
 			color="white"
 			background="black"
-			image="home/jillmermaid.jpg"
+			image="home/3.jpg"
 		>
-			<Photo file="home/jillmermaid.jpg" />
+			<Photo file="home/3.jpg" />
 		</PrettyLink>
 
-		<PhotoSet>
 			<PrettyLink
-				to="/blog/2018/03/15/creative-freedom"
-				title="Studio photography"
+				to="/portraits"
+				title="Beautiful magazine-like portraits"
 				color="black"
 				background="white"
-				image="home/amanda3.jpg"
+				image="home/4.jpg"
 			>
-				<Photo file="home/amanda3.jpg" />
+				<Photo file="home/4.jpg" />
 			</PrettyLink>
-			<Photo file="home/amanda6.jpg" />
-		</PhotoSet>
 
 		<PrettyLink
-			to="/blog/2018/02/10/dutch-model-fall-photoshoot"
-			title="Simplicity is key"
+			to="/couple_shoots"
+			title="Engagement & pre-wedding sessions"
 			color="white"
 			background="black"
-			image="home/9.jpg"
+			image="home/5.jpg"
 		>
-			<Photo file="home/9.jpg" />
+			<Photo file="home/5.jpg" />
 		</PrettyLink>
 
 
 		<PrettyLink
-			to="/bridal-beauty"
-			title="Styled bridals"
+			to="/couple_shoots"
+			title="Romantic flower field couple session"
 			color="white"
 			background="black"
-			image="home/menyasszonyok.jpg"
+			image="home/6.jpg"
 		>
-			<Photo file="home/menyasszonyok.jpg" />
+			<Photo file="home/6.jpg" />
 		</PrettyLink>
 
+			<PrettyLink
+			to="/bridal_beauty"
+			title="Beautiful styled bridal portraits"
+			color="white"
+			background="black"
+			image="home/7.jpg"
+		>
+			<Photo file="home/7.jpg" />
+		</PrettyLink>
 
 
 		<CallToActionButton to="/contact" text="Book now" />
