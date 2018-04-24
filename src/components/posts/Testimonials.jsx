@@ -31,12 +31,7 @@ export default () => (
 		    <br />- Dorina K.</p>
     
 		<Photo file="blog/testimonials2.jpg" />
-    
-    <p>
-    "My biggest fear was that I don't know how to pose. Annie was really creative with the locations and she was giving a lot of instructions."
-		    <br />- Dorina K.</p>
-    
-		<Photo file="blog/testimonials3.jpg" />
+    	<Photo file="blog/testimonials3.jpg" />
     
      <p>
     "My biggest fear was that I don't know how to pose. Annie was really creative with the locations and she was giving a lot of instructions."
