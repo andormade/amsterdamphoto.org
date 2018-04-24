@@ -14,6 +14,7 @@ import Couples from './components/posts/Couples';
 import Children from './components/posts/Children';
 
 export default [
+	Testimonials,
 	Children,
 	Couples,
 	Newyear,
