@@ -56,7 +56,7 @@ export default props => {
 	return (
 		<BlogPostPreview>
 			<StyledLink to={permaLink}>
-				<Banner src={'https://amsterdamphoto.org/images/' + image} />
+				<Banner src={'http://amsterdamphoto.org/images/' + image} />
 			</StyledLink>
 			<StyledLink to={permaLink}>
 				<Title>{title}</Title>
