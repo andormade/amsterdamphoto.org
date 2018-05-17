@@ -7,7 +7,7 @@ export default () => (
 	<TextPage
 		title="Bridal beauty"
 		description="Photoshoot in Budapest with breathtakingly beautiful models in a vintage studio."
-		image="bridal_beauty/1.jpg"
+		image="bridal_beauty/2.jpg"
 	>
 		<h2>Bridal beauty styled photoshoots</h2>
 		<p>

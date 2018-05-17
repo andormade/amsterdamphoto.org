@@ -1,10 +1,14 @@
 import React from 'react';
-import Page from '../Page';
+import TextPage from '../TextPage';
 import Photo from '../Photo';
 import CallToActionButton from '../CallToActionButton';
 
 export default () => (
-	<Page title="Children photography">
+	<TextPage
+		title="Children photography"
+		description="Capturing the best moments of a kid's life in definitely not an easy task. It requires some patience and understanding..."
+		image="children/kids1.jpg"
+	>
 		<h2> Children photography </h2>
 		<p>
 			Capturing the best moments of a kid's life in definitely not an easy
@@ -33,5 +37,5 @@ export default () => (
 		<Photo file="children/kids15.jpg" />
 
 		<CallToActionButton to="/contact" text="Book now" />
-	</Page>
+	</TextPage>
 );
