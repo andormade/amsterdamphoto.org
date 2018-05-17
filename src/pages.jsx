@@ -37,22 +37,6 @@ export default [
 	AboutMe,
 	Blog,
 	Investment,
-	ForestFairyTale,
-	BridalBeauty,
-	LostBride,
-	Boudoir,
-	DreamyBeach,
-	Rebellion,
-	FashionConfession,
-	ConfidenceIsKey,
-	TropicalVibes,
 	Portraits,
-	AutumnsScent,
-	CoupleGermany,
-	CoupleHungary,
-	CoupleMiami,
-	PhotoWalkAmsterdam,
-	Lifestyle,
-	Children,
-	Events
+	Children
 ];
