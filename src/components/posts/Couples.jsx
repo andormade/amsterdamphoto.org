@@ -9,7 +9,7 @@ export default () => (
 		description="Romantic couple portrait sessions to celebrate love & happiness"
 		date="2018-03-22"
 		permalink="couple-sessions"
-		image="couple_shoots/9.jpg"
+		image="couple_shoots/daria.jpg"
 	>
 	
 		
