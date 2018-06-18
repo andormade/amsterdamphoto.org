@@ -36,6 +36,6 @@ export default () => (
 		<Photo file="couple_shoots/9.jpg" />
     	<Photo file="couple_shoots/10.jpg" />
     
-    <p>Have you ever wanted to freeze the time forever in a perfect moment? With a photo session like this, you can do that. If you have any qestions, please don't hesitate to message me.</p>
+    <p>Message me to book your own photo session.</p>
 	</BlogPost>
 );
