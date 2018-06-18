@@ -81,7 +81,7 @@ export default class ApplicationShell extends React.Component {
 					/>
 
 					<title>
-						Portrait &amp; Event Photography in Haarlem | Annie
+						Portrait &amp; Event Photography in Amsterdam | Annie
 						Kostolany
 					</title>
 				</Helmet>
