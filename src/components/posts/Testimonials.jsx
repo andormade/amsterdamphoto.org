@@ -8,7 +8,7 @@ export default () => (
 		description="Read these opinions to make sure you're making the right decision."
 		date="2018-04-24"
 		permalink="client-testimonials"
-		image="fashion_confession/testimonials5.jpg"
+		image="blog/testimonials5.jpg"
 	>
 		<p>
 			I know that choosing a photographer is quite a big decision. 
