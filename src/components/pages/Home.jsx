@@ -11,7 +11,6 @@ export default () => (
 		image="home/1.jpg"
 		permalink="/"
 	>
-		
 		<Photo file="home/1.jpg" />
 		<Photo file="home/2.jpg" />
 		<Photo file="home/3.jpg" />
@@ -19,8 +18,6 @@ export default () => (
 		<Photo file="home/5.jpg" />
 		<Photo file="home/6.jpg" />
 		<Photo file="home/7.jpg" />
-
-	
 
 		<CallToActionButton to="/contact" text="Book now" />
 	</AlbumPage>

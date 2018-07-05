@@ -11,9 +11,12 @@ export default () => (
 	>
 		<h2> Children photography </h2>
 		<p>
-			Photographing children is definitely not an easy task. Sometimes it requires a lot of patience and understanding. 
-			I photograph birthdays, cake smashes, themed mini sessions (Christmas, costumes) and events. I work confidently in my home studio in Haarlem just as much as on-location. 
-			Contact me for more information on prices and availability.
+			Photographing children is definitely not an easy task. Sometimes it
+			requires a lot of patience and understanding. I photograph
+			birthdays, cake smashes, themed mini sessions (Christmas, costumes)
+			and events. I work confidently in my home studio in Haarlem just as
+			much as on-location. Contact me for more information on prices and
+			availability.
 		</p>
 		<Photo file="children/kids1.jpg" />
 		<Photo file="children/kids2.jpg" />

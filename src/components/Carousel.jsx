@@ -74,21 +74,21 @@ export default class Carousel extends React.Component {
 			offset: 0,
 			scrolling: true
 		}));
-	}
+	};
 
 	onPanMove = event => {
 		event.preventDefault();
 		this.setState(prevState => {
 			return {
-				offset: event.deltaX / this._scrollerEl.offsetWidth * 100,
+				offset: (event.deltaX / this._scrollerEl.offsetWidth) * 100,
 				scrolling: true
 			};
 		});
-	}
+	};
 
 	onPanEnd = event => {
 		const threshold = this.props.threshold || 10;
-		const { position, scrollToNextItem, scrollToPreviousItem }  = this.props;
+		const { position, scrollToNextItem, scrollToPreviousItem } = this.props;
 
 		if (
 			event.deltaX < -threshold &&
@@ -110,13 +110,13 @@ export default class Carousel extends React.Component {
 				scrolling: false
 			};
 		});
-	}
+	};
 
 	onTransitionEnd = event => {
 		if (this.props.onRoll) {
 			this.props.onRoll();
 		}
-	}
+	};
 
 	render() {
 		const { children, position } = this.props;

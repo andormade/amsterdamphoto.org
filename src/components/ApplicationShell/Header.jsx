@@ -3,9 +3,8 @@ import { Link } from 'react-router-dom';
 import React from 'react';
 import { Facebook, Instagram, Messenger } from './SocialIcons';
 
-const HeaderContainer =
- styled.header`
-	background: #E6BE8A;
+const HeaderContainer = styled.header`
+	background: #e6be8a;
 	margin: 0 auto;
 	height: 46px;
 	overflow: hidden;
@@ -105,7 +104,7 @@ export default class Header extends React.Component {
 			? {
 					height: 'auto'
 					//'box-shadow': '0 0 100px #000000'
-				}
+			  }
 			: {};
 
 		return (
@@ -116,7 +115,9 @@ export default class Header extends React.Component {
 					<MenuItem to="/about-me">About me</MenuItem>
 					<MenuItem to="/investment">Investment</MenuItem>
 					<MenuItem to="/bridal-beauty">Bridal Photography</MenuItem>
-					<MenuItem to="/blog/2018/03/22/couple-sessions">Couple sessions</MenuItem>
+					<MenuItem to="/blog/2018/03/22/couple-sessions">
+						Couple sessions
+					</MenuItem>
 					<MenuItem to="/children-photography">Children</MenuItem>
 					<MenuItem to="/blog">Blog</MenuItem>
 					<Instagram />
