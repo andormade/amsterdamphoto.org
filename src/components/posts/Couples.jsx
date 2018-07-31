@@ -10,11 +10,11 @@ export default () => (
 		permalink="couple-sessions"
 		image="couple_shoots/daria.jpg"
 	>
-		<Photo file="couple_shoots/1.jpg" />
 		<Photo file="couple_shoots/2.jpg" />
+		<Photo file="couple_shoots/couple1.jpg" />
+		<Photo file="couple_shoots/1.jpg" />
 		<Photo file="couple_shoots/2b.jpg" />
 		<Photo file="couple_shoots/3.jpg" />
-		<Photo file="couple_shoots/4.jpg" />
 		<Photo file="couple_shoots/5.jpg" />
 		<Photo file="couple_shoots/6.jpg" />
 		<Photo file="couple_shoots/7.jpg" />
