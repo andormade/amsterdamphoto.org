@@ -11,7 +11,7 @@ export default () => (
 		image="couple_shoots/daria.jpg"
 	>
 		<Photo file="couple_shoots/2.jpg" />
-		<Photo file="couple_shoots/couple1.jpg" />
+		<Photo file="couple_shoots/couple2.jpg" />
 		<Photo file="couple_shoots/1.jpg" />
 		<Photo file="couple_shoots/2b.jpg" />
 		<Photo file="couple_shoots/3.jpg" />
