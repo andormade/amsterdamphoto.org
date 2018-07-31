@@ -62,23 +62,19 @@ export default () => (
 			<br />- Kady S.
 		</p>
 
-		<Photo file="blog/testimonials7.jpg" />
 		<p>
 			"It was an experience that I would repeat if I had the chance again!
 			It was a nice summer evening that is captured in beautiful pics!"
 			<br />- Anisa
 		</p>
 
-		<Photo file="blog/testimonials8.jpg" />
 		<p>
 			"Before we had our photoshoot, my biggest fear was not being
 			photogenic enough to get a good result, but I was honestly relieved
 			and I loved my photos!"
 			<br />- Anna K.
 		</p>
-
-		<Photo file="blog/testimonials9.jpg" />
-		<Photo file="blog/testimonials10.jpg" />
+		
 		<p>
 			{' '}
 			I know exactly how stressful can it be to pose in front of the
