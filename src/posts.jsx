@@ -5,7 +5,6 @@ import Marjolein from './components/posts/Marjolein';
 import MalePortraitSession from './components/posts/MalePortraitSession';
 import TropicalVibes from './components/posts/TropicalVibes';
 import Calvins from './components/posts/Calvins';
-import LostBride from './components/posts/LostBride';
 import Minis from './components/posts/Minis';
 import Boudoir from './components/posts/Boudoir';
 import Couples from './components/posts/Couples';
@@ -23,6 +22,5 @@ export default [
 	Marjolein,
 	PhotoSessionsForValentines,
 	PhotoWalkAmsterdam,
-	LostBride,
 	MalePortraitSession
 ];
