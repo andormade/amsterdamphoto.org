@@ -11,7 +11,7 @@ export default () => (
 	>
 		<Photo file="investment/amsterdam.jpg" alt="Boudoir photography" />
 		<p>
-			<br />My session prices start from 90 Eur. I created several package
+			<br />My session prices start from 170 Eur. I created package
 			options which are completely customizable for your needs. Feel free
 			to send me a message to get my extended price & package guide.
 		</p>
