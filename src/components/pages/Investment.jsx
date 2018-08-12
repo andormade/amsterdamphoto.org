@@ -13,7 +13,7 @@ export default () => (
 		<p>
 		If you would like to know more about my prices and services, feel free to email me and get my extended price & package guide. 
 		</p>
-		<p>Qestions, booking: mail@anniekostolany.com</p>
+		<p>Questions, booking: mail@anniekostolany.com</p>
 
 		<CallToActionButton to="/contact" text="Book now" />
 	</TextPage>
