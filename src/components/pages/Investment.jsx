@@ -11,10 +11,9 @@ export default () => (
 	>
 		<Photo file="investment/amsterdam.jpg" alt="Boudoir photography" />
 		<p>
-			<br />My session prices start from 170 Eur. I created package
-			options which are completely customizable for your needs. Feel free
-			to send me a message to get my extended price & package guide.
+		If you would like to know more about my prices and services, feel free to email me and get my extended price & package guide. 
 		</p>
+		<p>Qestions, booking: mail@anniekostolany.com</p>
 
 		<CallToActionButton to="/contact" text="Book now" />
 	</TextPage>
