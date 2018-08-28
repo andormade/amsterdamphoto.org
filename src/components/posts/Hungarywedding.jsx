@@ -14,7 +14,7 @@ export default () => (
 		<p>Eszter and Isti are a beautiful couple from Hungary. Although I am based in Amsterdam and I do most of my work here, I am always happy to travel and challange myself in a new environment. 
     Their wedding was just like a fairytale, and I was really lucky to be there with them on this wonderful day. I still remember my own wedding, which was three years ago and I know exactly how difficult it is to organize one. 
     However, these memories are everlasting, we carry them not only on the pictures but in our hearts as well. 
-		</p
+		</p>
 		
     <Photo file="blog/wedding1/1.jpg" />
     <Photo file="blog/wedding1/2.jpg" />
