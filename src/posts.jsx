@@ -10,6 +10,8 @@ import Children from './components/posts/Children';
 import Testimonials from './components/posts/Testimonials';
 
 export default [
+	
+	Hungarywedding,
 	Testimonials,
 	Children,
 	Couples,
