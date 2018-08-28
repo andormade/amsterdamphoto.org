@@ -8,6 +8,7 @@ import Boudoir from './components/posts/Boudoir';
 import Couples from './components/posts/Couples';
 import Children from './components/posts/Children';
 import Testimonials from './components/posts/Testimonials';
+import Hungarywedding from './components/posts/Hungarywedding';
 
 export default [
 	
