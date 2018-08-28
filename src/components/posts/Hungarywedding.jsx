@@ -6,7 +6,7 @@ import React from 'react';
 export default () => (
 	<BlogPost
 		title="Dreamy Summer Wedding in Hungary"
-		description=" "
+		description="“Fall in love with someone who tastes like adventure but looks like the calm, beautiful morning after a terrible storm.” — Nikita Gill"
 		date="2018-08-28"
 		permalink="summer-wedding-hungary"
 		image="blog/wedding1/38.jpg"
