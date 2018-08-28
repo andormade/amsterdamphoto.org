@@ -53,7 +53,6 @@ export default () => (
     <Photo file="blog/wedding1/36.jpg" />
     <Photo file="blog/wedding1/37.jpg" />
     <Photo file="blog/wedding1/38.jpg" />
-    
    
     
 	</BlogPost>
